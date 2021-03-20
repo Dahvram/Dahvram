@@ -1,4 +1,4 @@
 - Hi, I’m Dahvram and I’m looking to collaborate on Dual Universe scripting.
 - You can reach me at:
-  - email: dahvram@icloud,com
+  - email: dahvram@icloud.com
   - discord: Dahvram#5526
